@@ -1,3 +1,4 @@
 Iterator are object that act like pointer. Iterator re designed to work with various containers (a container is used to refers to a data structure that hold a collection of elements of same or similiar data type like map, list, set, array, vector etc. but not int, float, bool, double) data type.
-cointeiner: a colection of element of similiar data type
-C++ STL written with Iterator.
+cointeiner: a colection of element of similiar data type.
+C++ STL written with Iterator. So Iterator perform better than loop.
+Loop can use for only array operation, but iterator have been used in different collection of data type.
